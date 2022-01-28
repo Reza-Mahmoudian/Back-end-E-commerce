@@ -9,15 +9,10 @@ An application which allows backend for an e-commerce site to be generated, view
 - [Back End E Commerce](#back-end-e-commerce)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
   - [Technologies used](#technologies-used)
   - [Steps taken](#steps-taken)
   - [Questions](#questions)
   
-## Installation
-* You have to insall npm by using " npm install " in your command line after cloning to local machine. This adds the npm dependencies to run the program.
-* run your the index file using node by using 'node index' command in the terminal
-
 ## Technologies used:
 express.js
 sequelize
